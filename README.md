@@ -5,7 +5,7 @@
 A product website for an iPhone app, in **six languages**, with no tracking and no server. It explains the app in seconds and publishes the legal pages the App Store requires (privacy policy, terms, support).
 
 🔗 Live site: [lens.infinitydev.agency](https://lens.infinitydev.agency)
-📱 The app it promotes: see the [Infinity Lens](https://github.com/TheGeistGamer/infinity-lens) case study.
+📱 The app it promotes: see the [Infinity Lens](https://github.com/InfinityByFrank/infinity-lens) case study.
 
 <p align="center">
   <img src="assets/desktop-01-portada.png" width="560" alt="Landing page hero (desktop)" />
@@ -109,4 +109,4 @@ This repository contains **documentation only**; the source code is private.
 
 ## 📬 Contact
 
-**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency/)
+**Infinity dev by Frank** · [GitHub](https://github.com/InfinityByFrank) · [Infinity](https://infinitydev.agency) · [Portfolio](https://portfolio.infinitydev.agency)
